@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "907556109889",
+    "project_id": "sport-lottery-9d11f",
+    "storage_bucket": "sport-lottery-9d11f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907556109889:android:140a80976b7409193750c0",
+        "android_client_info": {
+          "package_name": "com.example.sport_lottery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907556109889-2f39dsftdih1v2vpc8phpm2rrmqks1d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sport_lottery",
+            "certificate_hash": "d3db049fc552bd9815c2d2533a02a75293a1717b"
+          }
+        },
+        {
+          "client_id": "907556109889-9frm3mniqb9k96vol99mk0aelvbe8a4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0_y7N3RtVCc8aVvzWDwDCIPrUrtQUvkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907556109889-62b69cr1l49gakuh6equq3t8cfe0a5s9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "907556109889-6avu9ltbk93n4p172j3u0687f9hvvdmj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sportLottery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
